@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thaylor
 - 👀 I’m interested in development of solutions using Java, JavaScript and React
-- 🌱 I’m currently learning Java, JavaScript, PHP, React
+- 🌱 I’m currently learning Java, JavaScript, PHP, React and React Native
 - 📫 You can reach me here or via email (on my profile)
 
 <!---
